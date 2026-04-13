@@ -1,62 +1,93 @@
-# Hi, I'm Kaung Htet Htun 👋
+# Kaung Htet Htun 👋
 
 🚀 Robotics & AI Engineer | ROS 2 | Embedded Systems | Mentor  
-🌍 Open to Remote Opportunities  
+🌍 Open to Remote Roles (Robotics / AI / AMR)
 
 ---
 
-## 🧠 About Me
-I am a Robotics and AI Engineer with experience in building intelligent robotic systems from low-level embedded control to high-level autonomy.
+## 🧠 Engineering Profile
+Robotics Engineer with strong experience in designing and deploying **end-to-end robotic systems**—from embedded motor control to autonomous navigation.
 
-- 🔧 Specialized in ROS 2, SLAM, and mobile robot systems  
-- 🤖 Working on Industrial Mobile Robots (AMR) at ROM Robotics  
-- 🧩 Strong in embedded systems using STM32 and ESP32
-- 🎯 Passionate about robotics, AI integration, and real-world problem solving  
-- 👨‍🏫 Robotics Mentor since 2023 (Teaching ROS, SLAM, and control systems)  
+Currently working on **Industrial Mobile Robots (AMR)**, focusing on:
+- SLAM & mapping
+- Robot kinematics (mobile, quadruped, humanoid)
+- ROS 2 system architecture & integration
 
----
-
-## 🛠️ Tech Stack
-**Robotics:** ROS 2 (Humble), ROS (Kinetic), Nav2, SLAM (gmapping)  
-**Programming:** C++, Python  
-**Embedded:** STM32, ESP32
-**Control:** PID, Differential Drive Systems  
-**AI/ML:** Pytorch (Basics)  
-**Other:** Serial Communication, PLC, System Integration  
+I combine **embedded systems + ROS + AI** to build real-world robotic solutions.
 
 ---
 
-## 🚀 Key Projects
+## ⚙️ Technical Expertise
 
-### 🔹 ROS 2 Differential Drive Robot
-- Custom `ros2_control` hardware interface  
-- Encoder feedback + velocity control  
-- Full integration with ROS 2 navigation  
+**Robotics & Middleware**
+- ROS 2 (Humble), ROS (Kinetic)
+- Nav2, SLAM (gmapping,catrographer), TF, URDF
+- ros2_control (custom hardware interfaces)
 
-### 🔹 Autonomous Service Robot
-- Built using ROS Kinetic + SLAM (gmapping)  
-- LiDAR + IMU based localization  
-- Autonomous navigation to goal points  
+**Embedded & Control**
+- STM32, ESP32
+- PID control, encoder feedback systems
+- Real-time serial communication
 
-### 🔹 Embedded Motor Control System
-- PID-based motor control with encoder feedback  
-- Real-time monitoring via serial communication  
+**Software**
+- C++, Python
+- System integration (hardware ↔ software)
+
+**Advanced Topics**
+- Forward & Inverse Kinematics
+- Differential drive modelling
+- Autonomous navigation systems
 
 ---
 
-## 📚 Teaching & Mentorship
+## 🚀 Featured Engineering Projects
+
+### 🔹 ROS 2 Differential Drive System
+✔ Custom `ros2_control` hardware interface  
+✔ Real-time encoder + velocity feedback loop  
+✔ Full ROS 2 integration (URDF, controllers, launch)
+
+
+---
+
+### 🔹 Autonomous Service Robot (ROS)
+✔ SLAM using gmapping  
+✔ LiDAR + IMU sensor fusion  
+✔ Goal-based autonomous navigation  
+
+
+---
+
+### 🔹 Embedded Motor Control (PID)
+✔ Closed-loop speed control using encoders  
+✔ PID tuning and performance optimization  
+✔ Serial-based debugging + monitoring  
+
+
+---
+
+## 🧪 Engineering Philosophy
+- Build **complete systems**, not isolated code  
+- Focus on **real hardware constraints**  
+- Prioritize **robustness over demos**  
+- Learn by **implementing, testing, improving**  
+
+---
+
+## 👨‍🏫 Mentorship
 - Robotics Instructor (2023 – Present)  
 - Teaching ROS, SLAM, Embedded Systems  
-- Focus on hands-on, real-world robotics projects  
+- Focus on real-world, project-based learning  
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: kaunghtethtun@romdynamics.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/kaung-htet-htun-466768181/  
+## 📈 Current Focus
+- Industrial Mobile Robots (AMR)
+- ROS 2 system architecture
+- AI integration in robotics
 
 ---
 
-## 🎯 Current Focus
-- 🔍 Looking for Remote Robotics / AI Engineer roles  
-- 🤝 Open to collaboration on robotics and AI projects  
+## 📫 Contact
+📧 khtjuly@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/kaung-htet-htun-466768181/
