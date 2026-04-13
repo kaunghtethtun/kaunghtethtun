@@ -10,7 +10,7 @@ Robotics Engineer with strong experience in designing and deploying **end-to-end
 
 Currently working on **Industrial Mobile Robots (AMR)**, focusing on:
 - SLAM & mapping
-- Robot kinematics (mobile, quadruped, humanoid)
+- Robot kinematics (mobile)
 - ROS 2 system architecture & integration
 
 I combine **embedded systems + ROS + AI** to build real-world robotic solutions.
